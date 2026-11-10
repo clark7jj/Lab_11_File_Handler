@@ -1,0 +1,3 @@
+Hello! This is a second test file.
+I'm testing for the FileInspector program.
+It's line three, and it seems to be working fine!
