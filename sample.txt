@@ -1,0 +1,3 @@
+Hello! This is  a sample text file.
+It's to test my FileInspector program.
+This is line three.
